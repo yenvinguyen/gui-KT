@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Thảo Ngân nòoooo!',
-    introDesc: `Ai cũng phải gói cho mình khoảng trời kí ức
+    introDesc: `Ai cũng phải gói cho mình khoảng trời kí ức     
     Ai cũng phải có một vài vết thương trong tim...`,
     btnIntro: 'to be countinue....',
     title: 'kỉ niệm chính là thứ nặng nề nhất, nhưng rồi cũng chỉ là chuyện đã qua mà thôi... nên là đừng nghĩ nhiều ',
