@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Ai cũng phải gói cho mình khoảng trời kí ức
     Ai cũng phải có một vài vết thương trong tim...`,
     btnIntro: 'to be countinue....',
-    title: 'Kỉ niệm chính là thứ nặng nề nhất, nhưng rồi cũng chỉ là chuyện đã qua mà thôi... nên là đừng nghĩ nhiều ',
+    title: 'kỉ niệm chính là thứ nặng nề nhất, nhưng rồi cũng chỉ là chuyện đã qua mà thôi... nên là đừng nghĩ nhiều ',
     desc: 'khi kết thúc một ngày dài dù mọi chuyện thế nào thì hãy luôn mỉm cười nhaaaa!!! (chị sẽ không từ chối được đâu ple ple) ',
     btnYes: 'okeee 🐥 <33',
     btnNo: 'Khồngggg 😠 :3',
