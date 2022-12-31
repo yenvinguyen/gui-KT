@@ -1,7 +1,6 @@
 const CONFIG = {
     introTitle: 'Quỳnh Tứ nòoooo!',
-    introDesc: `Ai cũng phải gói cho mình khoảng trời kí ức     
-    Ai cũng phải có một vài vết thương trong tim...`,
+    introDesc: `Chúc mừng năm mới 2023, chúc bạn nghìn sự như ý, vạn sự như mơ, triệu sự bất ngờ và tỉ lần hạnh phúc.`,
     btnIntro: 'to be countinue....',
     title: 'một năm cũ đã qua và bây giờ là thời khắc bắt đầu chuyển sang năm mới. Vậy nên cậu đã có một năm rất tuyệt vời rồi và hãy bỏ lại tất cả ở sau. ',
     title: 'Bắt đầu một năm mới thật tuyệt vời, gặt hái được nhiều thành công và mãi xinh nèeee! ',
