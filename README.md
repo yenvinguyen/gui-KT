@@ -9,20 +9,19 @@ Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
     introTitle: 'Kim Tuyền nòooo!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `dị là cũng đã cùng bên nhau gần nửa năm ùi.
+    Người chị đã dạy em rất nhiều óooo.
+    Mỗi một lần gặp nhau là một kỷ niệm khác nhau, hãy mãi ghi nhớ những kỷ niệm này nheee`,
     btnIntro: 'hihi',
     title: 'Gọi BA là nhà thì đi rùi nhớ quay dìa đóa nhaaa 😙',
     desc: 'Khum dìa phạt 10 ly chịu hong (thử nhấn hong chịu i) ',
     btnYes: 'Chịu luôn nhooo <33',
     btnNo: 'Không chịu douuu :3',
-    question:'BA mãi là nhà <3',
-    btnReply: 'Lời hứa từ KT <3',
-    reply: 'BA allway in my  <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    question:'Mụt lời nhắn cho índi',
+    btnReply: 'tâm thư dì dô mess nhắc nhở ngừi em nheee <3',
+    reply: 'BA allway in my heart <33333333',
+    mess: 'Chúc người chị luôn may mắn và thành công nheeee!!! 🥰. Mãi iu 😘😘',
+    messDesc: 'índi cũm sẽ trưởng thành huiii',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
